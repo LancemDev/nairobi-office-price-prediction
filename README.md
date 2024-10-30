@@ -28,14 +28,14 @@ The dataset is loaded from `data.csv` and contains the following columns:
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/LancemDev/nairobi-office-price-prediction
+    cd nairobi-office-price-prediction
     ```
 
 2. Create and activate a virtual environment:
     ```sh
     python3 -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate` and for fish use `source venv/bin/activate.fish`
     ```
 
 3. Install the required dependencies:
